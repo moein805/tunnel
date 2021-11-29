@@ -171,6 +171,32 @@ const App = new Vue({
 				composeElement.blur;
 			}
 		},
+		//send file
+		sendFile: function(e) {
+			e.stopPropagation();
+			e.preventDefault();
+			const file = e.target.files[0];
+			const fileReader = new FileReader();
+			fileReader.onload = (e) => {
+				const fileData = e.target.result;
+				const fileMessage = {
+					type: "file",
+					name: file.name,
+					size: file.size,
+					date: new Date().toISOString(),
+					data: fileData,
+				};
+				this.chats.push(fileMessage);
+				Object.keys(dataChannels).map((peer_id) => dataChannels[peer_id].send(JSON.stringify(fileMessage)));
+			};
+			fileReader.readAsDataURL(file);
+		},
+		//send image
+		sendImage: function(e) {
+
+			
+			
+
 		handleIncomingDataChannelMessage: function(chatMessage) {
 			switch (chatMessage.type) {
 				case "chat":
