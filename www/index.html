@@ -72,6 +72,7 @@
 					<div id="placeholder" v-if="typing.length <= 0">نوشتن پیام .... 	</div>
 
 																	
+					<input type="file">
 					
 					<div
 						id="compose"
@@ -80,6 +81,7 @@
 						v-on:input="edit($event)"
 						v-on:paste="paste($event)"
 					>   </div>
+			
 									</div>
  	<a type="buttom" id="btn-ema-send"  v-on:click="sendChat"><img class="send-img" src="./img/send-tunnel.png">
 </a>	
@@ -156,7 +158,7 @@
 			
 			
 			
-			
+		<--!	
 			<div id="boxfile"  v-if="showFile" >
 			
 			

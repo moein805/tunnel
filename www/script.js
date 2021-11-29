@@ -1,4 +1,8 @@
 /* globals App, io, cabin*/
+
+
+
+
 const ICE_SERVERS = [
 	{ urls: "stun:stun.l.google.com:19302" },
 	{ urls: "stun:stun.stunprotocol.org:3478" },
