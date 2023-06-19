@@ -1,4 +1,4 @@
-# Tunnela - Secure Tunneling Project 🚄🔒
+# tunnel - Secure Tunneling Project 🚄🔒
 
 ![Project Logo](path/to/logo.png)
 
@@ -15,21 +15,21 @@
 
 ## About
 
-In this article, we introduce "Tunnela," a secure tunneling project that focuses on providing security and data protection. 🚄🔒 Tunnela allows users to send and receive network traffic through a secure and encrypted tunnel. By using Tunnela, users can enhance their network communications and enjoy high levels of privacy and security. 😎
+In this article, we introduce "tunnel," a secure tunneling project that focuses on providing security and data protection. 🚄🔒 tunnel allows users to send and receive network traffic through a secure and encrypted tunnel. By using tunnel, users can enhance their network communications and enjoy high levels of privacy and security. 😎
 
 ## Features
 
-Tunnela comes with the following features:
+tunnel comes with the following features:
 
-- **Strong Encryption**: Tunnela employs robust encryption algorithms to secure network traffic, ensuring the safety of information. 🔒
-- **Secure Tunneling**: Tunnela enables the creation of secure tunnels for data transmission, ensuring the protection of user data during transit. 🚀
-- **P2P Tunneling**: Tunnela utilizes P2P (Peer-to-Peer) technology, allowing users to establish direct and decentralized connections with each other, without intermediaries. 🌐
-- **Simultaneous Text Chat with Video Tunneling**: Tunnela allows users to engage in real-time text chat alongside video communication. 💬
-- **Screen Sharing**: Tunnela provides screen sharing capabilities, allowing users to collaborate more effectively. 🖥️
+- **Strong Encryption**: tunnel employs robust encryption algorithms to secure network traffic, ensuring the safety of information. 🔒
+- **Secure Tunneling**: tunnel enables the creation of secure tunnels for data transmission, ensuring the protection of user data during transit. 🚀
+- **P2P Tunneling**: tunnel utilizes P2P (Peer-to-Peer) technology, allowing users to establish direct and decentralized connections with each other, without intermediaries. 🌐
+- **Simultaneous Text Chat with Video Tunneling**: tunnel allows users to engage in real-time text chat alongside video communication. 💬
+- **Screen Sharing**: tunnel provides screen sharing capabilities, allowing users to collaborate more effectively. 🖥️
 
 ## Technologies
 
-Tunnela leverages the following technologies:
+tunnel leverages the following technologies:
 
 - HTML
 - CSS
@@ -39,15 +39,15 @@ Tunnela leverages the following technologies:
 
 ## Importance of P2P
 
-The utilization of P2P technology in Tunnela holds great significance:
+The utilization of P2P technology in tunnel holds great significance:
 
 1. **Direct Communication**: P2P enables direct communication between users without relying on central intermediaries, enhancing privacy and reducing latency.
 2. **Decentralization**: P2P eliminates the need for centralized servers, enhancing fault tolerance and scalability.
-3. **Efficient Resource Utilization**: P2P allows for efficient utilization of network and computing resources, optimizing the overall performance of Tunnela.
+3. **Efficient Resource Utilization**: P2P allows for efficient utilization of network and computing resources, optimizing the overall performance of tunnel.
 
 ## Contribution
 
-We welcome contributions to enhance the Tunnela project. To contribute, follow these steps:
+We welcome contributions to enhance the tunnel project. To contribute, follow these steps:
 
 1. Fork the project repository.
 2. Create a new branch.
@@ -61,4 +61,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to exami
 
 ---
 
-We appreciate your interest in the Tunnela project! If you have any questions or feedback, please let us know. We hope you have an exceptional experience with Tunnela, enabling secure communication, preserving privacy, and leveraging the power of P2P connectivity! 🚀💬
+We appreciate your interest in the tunnel project! If you have any questions or feedback, please let us know. We hope you have an exceptional experience with tunnel, enabling secure communication, preserving privacy, and leveraging the power of P2P connectivity! 🚀💬
