@@ -15,7 +15,7 @@
 
 ## About
 
-In this article, we introduce "tunnel," a secure tunneling project that focuses on providing security and data protection. 🚄🔒 tunnel allows users to send and receive network traffic through a secure and encrypted tunnel. By using tunnel, users can enhance their network communications and enjoy high levels of privacy and security. 😎
+we introduce "tunnel," a secure tunneling project that focuses on providing security and data protection. 🚄🔒 tunnel allows users to send and receive network traffic through a secure and encrypted tunnel. By using tunnel, users can enhance their network communications and enjoy high levels of privacy and security. 😎
 
 ## Features
 
