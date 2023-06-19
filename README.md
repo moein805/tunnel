@@ -1,6 +1,6 @@
 # tunnel - Secure Tunneling Project 🚄🔒
 
-![Project Logo](path/to/logo.png)
+
 
 ## Table of Contents
 
